@@ -1,10 +1,10 @@
-# Spring Boot API to register users
+# Spring Boot API para registro de usuario
+Projeto tende ajudar a evoluir no conhecimento da linguagem JAVA, junto ao treino da DIO, com treinamento de orientador Rodrigo Peleias. 
 
-This project was created during  a Digital Innovation One (DIO) Java training course by Rodrigo Peleias.
+Ferramentas utilizadas:
+- REST conceitos
+- Java 11/ Spring Boot / Maven 3.6.3 / Git* GitHub para versionamento
+- API deploy em cloud usando Heroku
+- Sdkman para gerenciamento do JDK
 
-The objective of this project is to explore the following topics:
-
-- REST concepts
-- Java / Spring Boot / Maven
-- API deploy in cloud using Heroku
 
